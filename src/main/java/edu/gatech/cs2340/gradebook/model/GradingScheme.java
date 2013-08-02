@@ -1,7 +1,7 @@
-package main.java.edu.gatech.cs2340.gradebook.model;
+package edu.gatech.cs2340.gradebook.model;
 
-import main.java.edu.gatech.cs2340.gradebook.dao.GradingSchemeDAO;
-import main.java.edu.gatech.cs2340.gradebook.util.GradingSchemeUtil;
+import edu.gatech.cs2340.gradebook.dao.GradingSchemeDAO;
+import edu.gatech.cs2340.gradebook.util.GradingSchemeUtil;
 /**
  * A grading scheme grades based on a user input described in the
  * constructors javadoc

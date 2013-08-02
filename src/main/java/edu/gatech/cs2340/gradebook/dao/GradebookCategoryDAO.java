@@ -1,4 +1,4 @@
-package main.java.edu.gatech.cs2340.gradebook.dao;
+package edu.gatech.cs2340.gradebook.dao;
 /**
  * Interface for implementing a Gradebook Category with a name
  * and a weight.

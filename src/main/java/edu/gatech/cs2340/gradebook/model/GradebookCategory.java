@@ -1,6 +1,6 @@
-package main.java.edu.gatech.cs2340.gradebook.model;
+package edu.gatech.cs2340.gradebook.model;
 
-import main.java.edu.gatech.cs2340.gradebook.dao.GradebookCategoryDAO;
+import edu.gatech.cs2340.gradebook.dao.GradebookCategoryDAO;
 /**
  * Gradebook categories have a name and a weight and are used to grade by
  * grading schemes.

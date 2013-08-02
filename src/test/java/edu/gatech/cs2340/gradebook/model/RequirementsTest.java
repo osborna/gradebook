@@ -1,16 +1,17 @@
-package test.java.edu.gatech.cs2340.gradebook.model;
+//package test.java.edu.gatech.cs2340.gradebook.model;
+package edu.gatech.cs2340.gradebook.model;
 
 import static org.junit.Assert.*;
 
 import java.util.ArrayList;
 
-import main.java.edu.gatech.cs2340.gradebook.model.Course;
-import main.java.edu.gatech.cs2340.gradebook.model.GradebookCategory;
-import main.java.edu.gatech.cs2340.gradebook.model.GradebookItem;
-import main.java.edu.gatech.cs2340.gradebook.model.GradingScheme;
-import main.java.edu.gatech.cs2340.gradebook.model.Lecture;
-import main.java.edu.gatech.cs2340.gradebook.model.Section;
-import main.java.edu.gatech.cs2340.gradebook.model.Student;
+import edu.gatech.cs2340.gradebook.model.Course;
+import edu.gatech.cs2340.gradebook.model.GradebookCategory;
+import edu.gatech.cs2340.gradebook.model.GradebookItem;
+import edu.gatech.cs2340.gradebook.model.GradingScheme;
+import edu.gatech.cs2340.gradebook.model.Lecture;
+import edu.gatech.cs2340.gradebook.model.Section;
+import edu.gatech.cs2340.gradebook.model.Student;
 
 import org.junit.Test;
 

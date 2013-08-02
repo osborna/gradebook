@@ -1,4 +1,4 @@
-package main.java.edu.gatech.cs2340.gradebook.model;
+package edu.gatech.cs2340.gradebook.model;
 
 import java.util.ArrayList;
 /**

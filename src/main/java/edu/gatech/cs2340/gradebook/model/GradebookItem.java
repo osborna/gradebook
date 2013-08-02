@@ -1,7 +1,7 @@
-package main.java.edu.gatech.cs2340.gradebook.model;
+package edu.gatech.cs2340.gradebook.model;
 
-import main.java.edu.gatech.cs2340.gradebook.dao.GradebookItemDAO;
-import main.java.edu.gatech.cs2340.gradebook.util.GradingSchemeUtil;
+import edu.gatech.cs2340.gradebook.dao.GradebookItemDAO;
+import edu.gatech.cs2340.gradebook.util.GradingSchemeUtil;
 /**
  * Gradebook Item has a name and a gradebook
  * category to be used as a weight

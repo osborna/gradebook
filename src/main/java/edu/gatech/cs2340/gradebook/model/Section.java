@@ -1,10 +1,10 @@
-package main.java.edu.gatech.cs2340.gradebook.model;
+package edu.gatech.cs2340.gradebook.model;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import main.java.edu.gatech.cs2340.gradebook.dao.SectionDAO;
-import main.java.edu.gatech.cs2340.gradebook.util.GradingSchemeUtil;
+import edu.gatech.cs2340.gradebook.dao.SectionDAO;
+import edu.gatech.cs2340.gradebook.util.GradingSchemeUtil;
 /**
  * Creates a section that belongs to a lecture and contains students,
  * and reports scores and a letter grade.

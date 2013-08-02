@@ -1,10 +1,10 @@
-package main.java.edu.gatech.cs2340.gradebook.dao;
+package edu.gatech.cs2340.gradebook.dao;
 
 import java.util.ArrayList;
 
-import main.java.edu.gatech.cs2340.gradebook.model.Course;
-import main.java.edu.gatech.cs2340.gradebook.model.GradingScheme;
-import main.java.edu.gatech.cs2340.gradebook.model.Section;
+import edu.gatech.cs2340.gradebook.model.Course;
+import edu.gatech.cs2340.gradebook.model.GradingScheme;
+import edu.gatech.cs2340.gradebook.model.Section;
 /**
  * Interface for implementing a Lecture with a name, a course, sections,
  * and ways to report scores using a specified grading scheme.

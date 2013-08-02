@@ -1,7 +1,7 @@
-package main.java.edu.gatech.cs2340.gradebook.dao;
+package edu.gatech.cs2340.gradebook.dao;
 
-import main.java.edu.gatech.cs2340.gradebook.model.GradebookCategory;
-import main.java.edu.gatech.cs2340.gradebook.model.GradebookItem;
+import edu.gatech.cs2340.gradebook.model.GradebookCategory;
+import edu.gatech.cs2340.gradebook.model.GradebookItem;
 /**
  * Interface for implementing a Gradebook Item with a name, score,
  * category, and a way to report grades.

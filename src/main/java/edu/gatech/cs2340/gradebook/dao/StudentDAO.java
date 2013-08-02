@@ -1,10 +1,10 @@
-package main.java.edu.gatech.cs2340.gradebook.dao;
+package edu.gatech.cs2340.gradebook.dao;
 
 import java.util.ArrayList;
 
-import main.java.edu.gatech.cs2340.gradebook.model.GradebookItem;
-import main.java.edu.gatech.cs2340.gradebook.model.GradingScheme;
-import main.java.edu.gatech.cs2340.gradebook.model.Section;
+import edu.gatech.cs2340.gradebook.model.GradebookItem;
+import edu.gatech.cs2340.gradebook.model.GradingScheme;
+import edu.gatech.cs2340.gradebook.model.Section;
 /**
  * Interface for implementing a Student with an ID, a name, grades, and
  * a way to report scores.

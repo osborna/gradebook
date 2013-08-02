@@ -1,8 +1,8 @@
-package main.java.edu.gatech.cs2340.gradebook.model;
+package edu.gatech.cs2340.gradebook.model;
 
 import java.util.ArrayList;
 
-import main.java.edu.gatech.cs2340.gradebook.dao.StudentDAO;
+import edu.gatech.cs2340.gradebook.dao.StudentDAO;
 /**
  * Creates a student with a name, and an ID. They can be added to sections,
  * given scores, and can report grades.

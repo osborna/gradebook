@@ -1,10 +1,10 @@
-package main.java.edu.gatech.cs2340.gradebook.util;
+package edu.gatech.cs2340.gradebook.util;
 
 import java.util.ArrayList;
 
-import main.java.edu.gatech.cs2340.gradebook.model.GradebookCategory;
-import main.java.edu.gatech.cs2340.gradebook.model.GradebookItem;
-import main.java.edu.gatech.cs2340.gradebook.model.Student;
+import edu.gatech.cs2340.gradebook.model.GradebookCategory;
+import edu.gatech.cs2340.gradebook.model.GradebookItem;
+import edu.gatech.cs2340.gradebook.model.Student;
 /**
  * A class used by GradebookScheme filled with helper methods that
  * carry out different grading methods.

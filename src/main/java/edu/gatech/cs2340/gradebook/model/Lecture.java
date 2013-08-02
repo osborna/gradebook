@@ -1,9 +1,9 @@
-package main.java.edu.gatech.cs2340.gradebook.model;
+package edu.gatech.cs2340.gradebook.model;
 
 import java.util.ArrayList;
 
-import main.java.edu.gatech.cs2340.gradebook.dao.LectureDAO;
-import main.java.edu.gatech.cs2340.gradebook.util.GradingSchemeUtil;
+import edu.gatech.cs2340.gradebook.dao.LectureDAO;
+import edu.gatech.cs2340.gradebook.util.GradingSchemeUtil;
 /**
  * Creates a lecture that contains sections and reports an average score
  * and an average letter grade

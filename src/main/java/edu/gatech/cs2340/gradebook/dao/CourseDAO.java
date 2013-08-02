@@ -1,8 +1,8 @@
-package main.java.edu.gatech.cs2340.gradebook.dao;
+package edu.gatech.cs2340.gradebook.dao;
 
 import java.util.ArrayList;
 
-import main.java.edu.gatech.cs2340.gradebook.model.Course;
+import edu.gatech.cs2340.gradebook.model.Course;
 /**
  * Interface for implementing a Course with a name, a subject, a course number,
  * and prerequisite courses.
